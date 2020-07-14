@@ -1,8 +1,20 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'upos2_kiosk'" />
-    <option name="defaultScopeName" value="Project 'upos2_kiosk'" />
-    <option name="SEARCH_SCOPE" value="Project 'upos2_kiosk'" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.htm</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.sht</mask>
+    <mask>*.ng</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
