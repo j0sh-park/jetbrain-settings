@@ -1,8 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'upos2_kiosk'" />
-    <option name="defaultScopeName" value="Project 'upos2_kiosk'" />
-    <option name="SEARCH_SCOPE" value="Project 'upos2_kiosk'" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
