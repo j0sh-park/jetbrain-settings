@@ -6,8 +6,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="p7510543" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/devias-io/react-material-dashboard.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/temp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
