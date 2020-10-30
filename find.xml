@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'EagonTech Card Kiosk'" />
-    <option name="defaultScopeName" value="Project 'EagonTech Card Kiosk'" />
-    <option name="SEARCH_SCOPE" value="Project 'EagonTech Card Kiosk'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
