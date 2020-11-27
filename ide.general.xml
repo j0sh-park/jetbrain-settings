@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="defaultProjectDirectory" value="$USER_HOME$/workspace" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
