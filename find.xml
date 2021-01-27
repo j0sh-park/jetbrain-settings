@@ -19,6 +19,7 @@
     <mask>*.js</mask>
     <mask>*.tsx</mask>
     <mask>*Fragment</mask>
+    <mask>*ViewModel.kt</mask>
     <mask>*Fragment.kt</mask>
   </component>
 </application>
