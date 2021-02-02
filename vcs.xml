@@ -4,18 +4,10 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="seunghee.park@meshkorea.net" />
+          <option name="userName" value="p7510543" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/devias-io/react-material-dashboard.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/josh-meshkorea/android" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/josh-meshkorea/android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
