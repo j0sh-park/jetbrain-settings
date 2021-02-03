@@ -2,6 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".slsignore" type="PLAIN_TEXT" />
+      <mapping pattern=".graphqlrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
