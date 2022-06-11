@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="nest-cli.json" type="JSON" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".graphqlrc" type="PLAIN_TEXT" />
       <mapping pattern=".slsignore" type="PLAIN_TEXT" />
