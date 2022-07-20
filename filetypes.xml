@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".kmcert.staging.env" type="PLAIN_TEXT" />
       <mapping pattern=".graphqlrc" type="PLAIN_TEXT" />
       <mapping pattern=".slsignore" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
