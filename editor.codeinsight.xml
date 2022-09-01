@@ -2,4 +2,7 @@
   <component name="KotlinCodeInsightSettings">
     <option name="addUnambiguousImportsOnTheFly" value="true" />
   </component>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+  </component>
 </application>
