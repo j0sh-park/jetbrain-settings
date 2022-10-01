@@ -19,6 +19,7 @@
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*Input.tsx</mask>
+    <mask>*.sql</mask>
     <mask>*.ts*</mask>
   </component>
 </application>
