@@ -5,6 +5,7 @@
       <mapping pattern=".kmcert.staging.env" type="PLAIN_TEXT" />
       <mapping pattern=".graphqlrc" type="PLAIN_TEXT" />
       <mapping pattern=".slsignore" type="PLAIN_TEXT" />
+      <mapping ext="aar" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
