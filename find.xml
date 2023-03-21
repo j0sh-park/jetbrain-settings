@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Assembly-CSharp'" />
+    <option name="defaultScopeName" value="Project 'Assembly-CSharp'" />
+    <option name="SEARCH_SCOPE" value="Project 'Assembly-CSharp'" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
