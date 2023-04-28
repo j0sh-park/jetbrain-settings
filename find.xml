@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Assembly-CSharp'" />
-    <option name="defaultScopeName" value="Project 'Assembly-CSharp'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Assembly-CSharp'" />
-    <option name="FILE_MASK" value="*.cs" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>

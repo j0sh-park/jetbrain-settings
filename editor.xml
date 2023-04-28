@@ -3,6 +3,15 @@
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="Unity Assets Usage" />
+        <option value="Usages" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+  </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
   </component>
