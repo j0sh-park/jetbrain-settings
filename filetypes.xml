@@ -7,6 +7,7 @@
       <mapping pattern=".slsignore" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="inputactions" approved="true" type="JSON" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="tps" approved="true" type="XML" />
       <mapping ext="gradle.kts" type="Kotlin" />
