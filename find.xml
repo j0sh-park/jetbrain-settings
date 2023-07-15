@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory 'Script' and 1 more item(s)" />
-    <option name="defaultScopeName" value="Directory 'Script' and 1 more item(s)" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'Script' and 1 more item(s)" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
