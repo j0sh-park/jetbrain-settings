@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Assembly-CSharp'" />
-    <option name="defaultScopeName" value="Project 'Assembly-CSharp'" />
-    <option name="SEARCH_SCOPE" value="Project 'Assembly-CSharp'" />
+    <option name="customScope" value="Directory 'Script' and 1 more item(s)" />
+    <option name="defaultScopeName" value="Directory 'Script' and 1 more item(s)" />
+    <option name="SEARCH_SCOPE" value="Directory 'Script' and 1 more item(s)" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
